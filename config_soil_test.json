@@ -1,0 +1,6 @@
+{
+    "sandbox_width": 50,
+    "sandbox_height": 50,
+    "cell_size": 10,
+    "land_color": [165, 42, 42]
+}

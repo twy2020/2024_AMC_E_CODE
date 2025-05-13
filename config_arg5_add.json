@@ -1,0 +1,35 @@
+{
+    "sandbox_width": 50,
+    "sandbox_height": 50,
+    "cell_size": 10,
+    "land_color": [165, 42, 42],
+    
+    "seedling_initial_energy": 150,
+    "seedling_energy_gain": 5,
+    "seedling_max_energy": 1000,
+    "seedling_min_energy": 100,
+    "seedling_growth_time": 150,
+    "seedling_fertility_cost": 2,
+    
+    "mature_tree_initial_energy": 1000,
+    "mature_tree_energy_gain": 10,
+    "mature_tree_max_energy": 2500,
+    "mature_tree_min_energy": 800,
+    "mature_tree_fertility_cost": 4,
+    "mature_tree_reproduction_chance": 0.05,
+    "fertility_return_ratio": 0.2,
+    "seedling_energy_loss_no_fertility": 3,
+    "mature_tree_energy_loss_no_fertility": 8,
+    
+    "crop_initial_energy": 100,
+    "crop_max_energy": 600,
+    "crop_min_energy": 50,
+    "crop_fertility_cost": 1,
+    "crop_energy_gain": 3,
+    "crop_maturity_time": 100,
+    "crop_harvest_delay": 10,
+    "crop_death_delay": 150,
+    "crop_fertility_return_ratio_dead": 0.4,
+    "crop_energy_loss_no_fertility": 2,
+    "crop_plant_delay": 10
+}
